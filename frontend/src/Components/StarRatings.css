@@ -1,0 +1,8 @@
+.star {
+    font-size: 1.5rem; /* Adjust the size as needed */
+    color: #d2c42e; /* Default color for unmarked stars */
+  }
+  
+  .star.marked {
+    color: #d2c42e; /* Color for marked stars */
+  }
