@@ -11,7 +11,6 @@ import {
   GET_MOVIE,
 } from "./actionTypes";
 
-// const BASE_URL = "https://invact-backend-89qz.onrender.com/movie";
 const BASE_URL = "http://localhost:8000/movie";
 
 export const getMoviesData = () => async (dispatch) => {
